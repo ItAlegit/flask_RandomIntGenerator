@@ -1,5 +1,5 @@
 # RandomIntGenerator
-RandomIntGenerator is a web application that displays a random number from 0 to 99. 
+RandomIntGenerator is a web application that displays a random number from 0 to 99 every 5 seconds. 
 
 The project contains flask, github-oauth2, gevent-websocket, threading.
 
